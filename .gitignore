@@ -1,0 +1,7 @@
+assets/
+Lib/
+Scripts/
+font\.ttf
+pip-selfcheck\.json
+pyvenv\.cfg
+config\.json
